@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/ComparisonOfQuardraticSorts.dir/src/main.cpp.o CMakeFiles/ComparisonOfQuardraticSorts.dir/src/sorts.cpp.o -o ComparisonOfQuardraticSorts 

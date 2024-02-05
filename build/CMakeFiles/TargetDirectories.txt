@@ -1,0 +1,3 @@
+/home/ipazzxyz/comparison-of-quadratic-sorts-1/build/CMakeFiles/ComparisonOfQuardraticSorts.dir
+/home/ipazzxyz/comparison-of-quadratic-sorts-1/build/CMakeFiles/edit_cache.dir
+/home/ipazzxyz/comparison-of-quadratic-sorts-1/build/CMakeFiles/rebuild_cache.dir

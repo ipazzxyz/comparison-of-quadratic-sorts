@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ipazzxyz/comparison-of-quadratic-sorts-1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ComparisonOfQuardraticSorts.dir/src/main.cpp.o -c /home/ipazzxyz/comparison-of-quadratic-sorts-1/src/main.cpp",
+  "file": "/home/ipazzxyz/comparison-of-quadratic-sorts-1/src/main.cpp"
+},
+{
+  "directory": "/home/ipazzxyz/comparison-of-quadratic-sorts-1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ComparisonOfQuardraticSorts.dir/src/sorts.cpp.o -c /home/ipazzxyz/comparison-of-quadratic-sorts-1/src/sorts.cpp",
+  "file": "/home/ipazzxyz/comparison-of-quadratic-sorts-1/src/sorts.cpp"
+}
+]

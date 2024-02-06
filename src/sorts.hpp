@@ -151,13 +151,18 @@ template <class ForwardIterator>
 std::pair<int, int> sort::bubble(ForwardIterator begin, ForwardIterator end)
 {
     int assign = 0, compare = 0;
+    ForwardIterator q = begin;
     for (ForwardIterator it = begin; it != end; ++it)
     {
-        for (ForwardIterator prev = begin, cur = begin; ++cur != end; ++prev)
+        for (ForwardIterator prev = q, cur = begin; ++cur != end; ++prev)
         {
             ++compare;
             if (*prev > *cur)
             {
+                if (q == begin)
+                {
+                    q = cur;
+                }
                 ++assign;
                 std::swap(*prev, *cur);
             }
